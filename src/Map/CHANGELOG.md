@@ -4,7 +4,7 @@
 
 -   Rename `render_map` Twig function `ux_map`
 -   Deprecate `render_map` Twig function
--   polygons
+-   Polygons added
 
 ## 2.19
 
